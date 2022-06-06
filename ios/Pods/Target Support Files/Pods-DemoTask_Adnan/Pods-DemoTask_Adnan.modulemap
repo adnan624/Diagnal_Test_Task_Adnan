@@ -1,0 +1,6 @@
+module Pods_DemoTask_Adnan {
+  umbrella header "Pods-DemoTask_Adnan-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/DemoTask_Adnan.iml" filepath="$PROJECT_DIR$/.idea/modules/DemoTask_Adnan.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/DemoTask_Adnan.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/DemoTask_Adnan.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1814070676/DemoTask_Adnan.react-native-gesture-handler.iml" filepath="$PROJECT_DIR$/.idea/modules/1814070676/DemoTask_Adnan.react-native-gesture-handler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-201707551/DemoTask_Adnan.react-native-masked-view_masked-view.iml" filepath="$PROJECT_DIR$/.idea/modules/-201707551/DemoTask_Adnan.react-native-masked-view_masked-view.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/144960520/DemoTask_Adnan.react-native-reanimated.iml" filepath="$PROJECT_DIR$/.idea/modules/144960520/DemoTask_Adnan.react-native-reanimated.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/216566013/DemoTask_Adnan.react-native-safe-area-context.iml" filepath="$PROJECT_DIR$/.idea/modules/216566013/DemoTask_Adnan.react-native-safe-area-context.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1026462037/DemoTask_Adnan.react-native-screens.iml" filepath="$PROJECT_DIR$/.idea/modules/1026462037/DemoTask_Adnan.react-native-screens.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/384490087/react-native-gradle-plugin.iml" filepath="$PROJECT_DIR$/.idea/modules/384490087/react-native-gradle-plugin.iml" />
+    </modules>
+  </component>
+</project>
